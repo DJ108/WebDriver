@@ -19,7 +19,7 @@ namespace WebDriverDemo
             //IWebDriver driver = new FirefoxDriver();
             //driver.Url = "http://www.apple.com";
 
-            //// Fire up IE
+            //// Fire up IE   TODO 2/14/14: This still has issues
             //IWebDriver driver = new InternetExplorerDriver(@"C:\libraries\");
             //driver.Url = "http://www.apple.com";
 
